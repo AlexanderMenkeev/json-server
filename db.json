@@ -1,6 +1,7 @@
 {
-  "patient": 
+  "patients": [
     {
+      "id": 1,
       "personal-data": {
         "first-name": "Иван",
         "second-name": "Иванов",
@@ -21,6 +22,56 @@
         "connective-tissue-dysplasia": true,
         "connective-tissue-dysplasia-type": "Синдром Марфана"
       }
-    }
+    },
+    
+    {
+      "id": 2,
+      "personal-data": {
+        "first-name": "Иван",
+        "second-name": "Иванов",
+        "patronymic": "Иванович",
+        "birthday": "21.05.1996",
+        "sex": true,
+        "region": "Магадан",
+        "clinic": "Клиника высоких медицинских технологий имени Н.И. Пирогова",
+        "race": "Европеоидная"
+      },
+
+      "anthropometric-data": {
+        "height": 180,
+        "weight": 80,
+        "body-mass-index": 24.6,
+        "body-surface-area": 1.9,
+        "body-type": "Мезоморф",
+        "connective-tissue-dysplasia": true,
+        "connective-tissue-dysplasia-type": "Синдром Марфана"
+      }
+    },
+    
+    {
+      "id": 3,
+      "personal-data": {
+        "first-name": "Иван",
+        "second-name": "Иванов",
+        "patronymic": "Иванович",
+        "birthday": "21.05.1996",
+        "sex": true,
+        "region": "Магадан",
+        "clinic": "Клиника высоких медицинских технологий имени Н.И. Пирогова",
+        "race": "Европеоидная"
+      },
+
+      "anthropometric-data": {
+        "height": 180,
+        "weight": 80,
+        "body-mass-index": 24.6,
+        "body-surface-area": 1.9,
+        "body-type": "Мезоморф",
+        "connective-tissue-dysplasia": true,
+        "connective-tissue-dysplasia-type": "Синдром Марфана"
+      }
+    } 
+  ]
   
 }
+
