@@ -1,7 +1,6 @@
 {
-  "patients": [
+  "patient": 
     {
-      "id": 1,
       "personal-data": {
         "first-name": "Иван",
         "second-name": "Иванов",
@@ -23,5 +22,5 @@
         "connective-tissue-dysplasia-type": "Синдром Марфана"
       }
     }
-  ]
+  
 }
