@@ -2,7 +2,6 @@
     "patients": [
       {
         "id": 1,
-        "employee_id": 2,
 
         "personal_data": {
           "first_name": "Иван",
