@@ -33,7 +33,7 @@
         },
 
         "clinical_data": {
-          "main_diag": "Расслоение аорты",
+          "main_diag": "какой-то диагноз",
           "aortic_dissection": false,
           "intramural_hematoma": false,
           "aortic_rupture": false,
