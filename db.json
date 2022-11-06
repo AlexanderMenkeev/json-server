@@ -47,6 +47,7 @@
         },
 
         "concom_desease": {
+          "cor_heart_disease_clinic": "Нет",
           "acuteMyocardilInfarctionNum": 0,
           "currentMyocardilInfarction": false,
           "diabetes": true,
