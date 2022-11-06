@@ -104,7 +104,7 @@
           "geneticAnalysisRes": "string",
           "smokingExperience": 0,
           "alkoConsumptionExperince": 2,
-          "drugConsumptionExperince": 3,
+          "drugConsumptionExperince": 0,
           "occupationalHazards": "string",
           "sports": "string",
           "diseaseKnowledge": 96400000,
