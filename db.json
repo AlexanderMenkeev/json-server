@@ -102,7 +102,7 @@
           "heartSurgeriesType": "string",
           "geneticAnalysisPr": true,
           "geneticAnalysisRes": "string",
-          "smokingExperience": 1,
+          "smokingExperience": 0,
           "alkoConsumptionExperince": 2,
           "drugConsumptionExperince": 3,
           "occupationalHazards": "string",
