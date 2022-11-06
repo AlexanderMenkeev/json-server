@@ -51,7 +51,7 @@
           "acuteMyocardilInfarctionNum": 0,
           "currentMyocardilInfarction": false,
           "diabetes": true,
-          "diabetesType": "Первый",
+          "diabetesType": "Первый тип",
           "cerebrovascularDisease": false,
           "BCAStenosis": false,
           "translschAttack": false,
